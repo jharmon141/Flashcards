@@ -8,4 +8,4 @@ Install Node
 
 Run "npm install inquirer"
 
-Run "node flashcard.js"
+Run "node flashcards.js"
