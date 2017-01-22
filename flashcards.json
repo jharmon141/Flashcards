@@ -1,0 +1,27 @@
+[
+    {
+        "front":"...was the first president of the United States.",
+        "back": "George Washington was the first president of the United States.",
+        "answer": "George Washington"
+    },
+    {
+        "front": "The ... is the central organelle of a cell that contains the DNA of an organism.",
+        "back": "The nucleus is the central organelle of a cell that contains the DNA of an organism.",
+        "answer": "nucleus"
+    },
+    {
+        "front": "... is considered the 'King of Rock and Roll.'",
+        "back": "Elvis Presley is considered the 'King of Rock and Roll.'",
+        "answer": "Elvis Presley"
+    },
+    {
+        "front": "... is the largest planet in the solar system.",
+        "back": "Jupiter is the largest planet in the solar system.",
+        "answer": "Jupiter"
+    },
+    {
+        "front": "The novel 'Moby Dick' was written by ...",
+        "back": "The novel 'Moby Dick' was written by Herman Melville.",
+        "answer": "Herman Melville"
+    }
+] 
