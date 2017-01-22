@@ -1,6 +1,5 @@
 var inquirer = require("inquirer");
 var questions = require('./flashcards.json');
-var userAnswer;
 
 function Flashcard(front, back, answer){
     this.front = front;
